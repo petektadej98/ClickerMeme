@@ -6,8 +6,9 @@
     android:weightSum="1">
 
     <ImageView
+        android:id="@+id/imageView"
         android:layout_width="match_parent"
-        android:layout_height="663dp"
-        app:srcCompat="@drawable/losgame"
-        android:id="@+id/imageView" />
+        android:layout_height="match_parent"
+        android:scaleType="fitXY"
+        app:srcCompat="@drawable/losgame" />
 </LinearLayout>

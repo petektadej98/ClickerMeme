@@ -20,5 +20,6 @@ public class SplashScreen extends Activity{
 
         final ImageView iv = (ImageView) findViewById(R.id.imageView);
 
+
     }
 }
